@@ -29,6 +29,7 @@ class Main : AppCompatActivity() {
         }
         binding.savingTips.root.setOnClickListener{
             startActivity(Intent(this, NavigationButtons::class.java))
+            //change
         }
     }
 }
