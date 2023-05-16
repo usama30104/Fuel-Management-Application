@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fuel Management Application</string>
+    <string name="fuel_expense">Fuel Expense</string>
+    <string name="fuelPrice">Fuel Price</string>
+    <string name="required">Required</string>
+    <string name="vehicleAverage">Vehicle Average Per-km</string>
+    <string name="distance_travel">Total Distance Travel </string>
+    <string name="dashboard">DashBoard</string>
+    <string name="fuel_saving_tips">Fuel Saving Tips</string>
+    <string name="driving_habits">Driving Habits </string>
+    <string name="firstline">firstLine</string>
+    <string name="average">Average Per-Km </string>
+    <string name="total_cost_of_fuel">Total Cost of Fuel </string>
+    <string name="fuel_expense_history">Fuel Expense History</string>
+    <string name="fuel_efficiency_history">Fuel Efficiency History</string>
+    <string name="tank_size">Initial Fuel</string>
+    <string name="Average">Initial Reading</string>
+    <string name="total_travel_in_tank">Fuel Price At Start</string>
+    <string name="fuel_used">Fuel Used</string>
+    <string name="final_reading">Final Reading</string>
+    <string name="fuel_price_at_refill">Fuel Price At Refill</string>
+    <string name="performance_of_car">Performance of car</string>
+    <string name="fuel_difference">Fuel Difference</string>
+
+    <style name="driving_habits_Description">Offer tips on how to drive in a more fuel-efficient
+        way, such as avoiding sudden acceleration and braking, maintaining a steady speed, and
+        reducing idling time.
+    </style>
+
+
+</resources>
